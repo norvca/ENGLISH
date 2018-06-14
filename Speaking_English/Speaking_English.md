@@ -37,6 +37,88 @@
 
 
 
+
+
+# Syllable stress
+
+### Noun: stress first syllable
+
+eg: `'window  / 'paper / 'building`
+
+
+
+### Verb: stress the second syllable 
+
+eg: `agr'ee / compl'ain / enj'oy`
+
+
+
+### ATE word
+
+Noun: change the sound  `ate` to `et`
+
+`chocolate : choclet`
+
+
+
+### -ESE =  stress suffix
+
+`chin'ese / japan'ese`
+
+
+
+### -EER =  stress suffix
+
+`volunt'eer / engin'eer`
+
+
+
+### -IC =  stress syllable before suffix
+
+`rea'listic / e'lectric / opti'mistic`
+
+
+
+### stress the content words within sentences
+
+>  content words such as `nouns / verb / adverbs / adjective`
+
+eg: I will be `driven` to the `market` to `buy`  something to `eat`
+
+
+
+### divide the sentences into thought groups
+
+> Focus Word = most important word of a thought group
+
+eg: I will be driven to the `market`  | to buy  something to `eat`
+
+
+
+### stress noun more than adjective 
+
+eg: hot `day` / good `job` / blond `hair`
+
+
+
+### stress first word of a compound noun
+
+eg: `credit` card / `eye`brow / `ear` ring
+
+
+
+### phrasal verb = stress the second verb 
+
+pick `up` / break `down` / corss `over`
+
+
+
+### names & places = stress the second word 
+
+United `Kingdom` /  Los `Angeles` / Bob `Dylan`
+
+
+
 #Real talk skills
 
 ## vowel to vowel

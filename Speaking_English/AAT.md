@@ -24,5 +24,27 @@
 6. I didn't say he stole **the** money.  (but rather some other money)
 7. I didn't say he stole the **money**.  (He may have taken some jewelry)
 
+## The American T
+
+1.  T is T at the beginning of a word or in a stressed syllable.
+
+touch / time / telephone
+
+2. T is D in the middle of a word.
+
+bottle / letter / meter / metting
+
+3. T is Held at the end of a word.
+
+hit / hot / hat / right
+
+4. T is Held before N in -tain and -ten endings.
+written / mountain / button
+
+5. T is Silent after N with lax vowels.
+
+
+
+
 
 ## track176...

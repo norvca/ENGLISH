@@ -9,3 +9,6 @@
 ### 3. Are you ready?
 1. 语速较快时 you 会变得像 ya， are'ya ready?
 2. 疑问句，ready记得带**上声调 ready↑?**
+
+### 4. Have some more coffe.
+coffe 读 /'kɔfi/ 而非 /'kʌfi/

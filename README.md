@@ -9,7 +9,7 @@
 
 ## Improved records
 
-### [Accent Correction](./Accent_Corrention/accentCorrection.md)
+### [Pronunciation Correction](./Accent_Corrention/accentCorrection.md)
 
 
 

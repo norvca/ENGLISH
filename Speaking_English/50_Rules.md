@@ -177,6 +177,7 @@ could not have = couldn əv
 
 /o/：choc~~o~~late、 comf~~o~~rtable( comfortable sounds like  comf~~o~~trable)
 
+### (finished)
 
 
 

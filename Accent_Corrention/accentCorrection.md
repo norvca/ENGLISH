@@ -12,3 +12,8 @@
 
 ### 4. Have some more coffe.
 coffe 读 /'kɔfi/ 而非 /'kʌfi/
+
+### 5. It's very far from here.
+1. very /ˈvɛri/
+2. from /frɔ**m**/ 末尾的尾音 m 要读出来。
+

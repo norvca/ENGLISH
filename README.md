@@ -5,8 +5,10 @@
 
 ### [Ann Cook: American Accent Araining](./Speaking_English/AAT.md)
 
+
 ## Hearing Materials
 
+### [Foxnews](./Foxnews)
 
 
 ## Improved records

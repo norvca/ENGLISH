@@ -14,5 +14,8 @@
 coffe 读 /'kɔfi/ 而非 /'kʌfi/
 
 ### 5. It's very far from here.
-1. from /frɔ**m**/ 末尾的尾音 m 要读出来。
+from /frɔ**m**/ 末尾的尾音 m 要读出来。
+
+### 6.every
+['e**v**rɪ]
 

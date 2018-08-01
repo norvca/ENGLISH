@@ -16,6 +16,16 @@ coffe 读 /'kɔfi/ 而非 /'kʌfi/
 ### 5. It's very far from here.
 from /frɔ**m**/ 末尾的尾音 m 要读出来。
 
-### 6.every
-['e**v**rɪ]
+### 6. every
+
+/'e**v**rɪ/
+
+### 7. question
+
+/'kw**e**stʃ(ə)n/ 而不是 /'kw**æ**stʃ(ə)n/
+也可省去 tʃ 的发音 读作  /'kw**e**ʃ(ə)n/
+
+### 6. garden
+
+通常省去 d 的发音读作 /'gɑː(ə)n]/
 

@@ -28,4 +28,3 @@ from /frɔ**m**/ 末尾的尾音 m 要读出来。
 
 ### 7. what dose he do?
 连读 /dʌzi/  中摩擦音**z** 要明显
-

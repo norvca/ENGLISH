@@ -29,5 +29,8 @@ from /frɔ**m**/ 末尾的尾音 m 要读出来。
 ### 7. what dose he do?
 连读 /dʌzi/  中摩擦音**z** 要明显
 
-### 8. 8 month
+### 8.month
 /mʌnθ/ 
+
+### 9.vacation
+/vəˈkeɪʃn/ 而非 /vəˈkeɪʃɪn/

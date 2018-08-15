@@ -34,3 +34,4 @@ from /frɔ**m**/ 末尾的尾音 m 要读出来。
 
 ### 9.vacation
 /vəˈkeɪʃn/ 而非 /vəˈkeɪʃɪn/
+

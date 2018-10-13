@@ -35,3 +35,5 @@ from /frɔ**m**/ 末尾的尾音 m 要读出来。
 ### 9.vacation
 /vəˈkeɪʃn/ 而非 /vəˈkeɪʃɪn/
 
+### 10.contain
+/kən'teɪn/ 而非 /kən'taɪn/

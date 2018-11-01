@@ -7,8 +7,6 @@
 
 ### [Master Spoken English](./Speaking_English/MSE.md)
 
-### [Whaddaya Say](./Speaking_English/WDYS.md)
-
 
 ## Hearing Materials
 
